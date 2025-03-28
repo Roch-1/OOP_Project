@@ -1,0 +1,6 @@
+pen 6 10 10
+pencil 10 20 5
+eraser 5 10 5
+ruler 10 10 10
+marker 1 20 10
+tape 3 3 20

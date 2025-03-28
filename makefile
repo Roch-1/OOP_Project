@@ -1,0 +1,2 @@
+store: Item.h Item.cpp Category.h Category.cpp User.h Customer.h Customer.cpp Staff.h Staff.cpp main.cpp 
+	g++ -o store Item.h Item.cpp Category.h Category.cpp User.h Customer.cpp Staff.h Staff.cpp main.cpp

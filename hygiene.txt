@@ -1,0 +1,7 @@
+soap 3 5 5
+shampoo 2 10 10
+bodywash 3 6 10
+toothpaste 5 10 10
+mouthwash 2 4 5
+toothbrush 5 5 5
+
